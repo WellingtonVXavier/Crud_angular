@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "Camiseta - Homem Aranha",
+      "price": "89.90",
+      "id": 1
+    },
+    {
+      "name": "Bermuda Spider",
+      "price": "65.99",
+      "id": 2
+    },
+    {
+      "name": "Calça Jeans - Slim",
+      "price": "99.90",
+      "id": 3
+    },
+    {
+      "name": "Blusa Moletom - Capuz Vermelho",
+      "price": "250.90",
+      "id": 4
+    },
+    {
+      "name": "Touca - Pantera Negra",
+      "price": "45.50",
+      "id": 5
+    }
+  ]
+}
