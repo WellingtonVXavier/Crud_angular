@@ -1,8 +1,25 @@
-<mat-card class="home mat-elevation-z3">
-    <mat-card-title class="title">
-        Bem Vindo!
-    </mat-card-title>
-    <mat-card-subtitle class="subtitle">
-        Sistema para exemplificar a construção de um cadastro em Angular
-    </mat-card-subtitle>
-</mat-card>
+<mat-progress-bar *ngIf="loading" mode="buffer"></mat-progress-bar>
+
+<div class="conteudo-produtos" *ngIf="!loading">
+
+    <h2>Produtos</h2>
+
+    <div class="card2">
+    
+        <mat-card *ngFor="let itemProduto of produtos" 
+            (click)="selecionarProduto(itemProduto)"
+            [ngClass]="getCssClassProduto(itemProduto)" 
+            class="home mat-elevation-z3">
+            <mat-card-title class="title">
+                <h2>
+                    #{{itemProduto.id}} - {{itemProduto.nome}}
+                </h2>
+            </mat-card-title>
+    
+            <mat-card-subtitle class="subtitle">
+                {{itemProduto.valor}}
+            </mat-card-subtitle>
+        </mat-card>
+    
+    </div>
+</div>

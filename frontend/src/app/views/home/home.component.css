@@ -4,6 +4,27 @@
     line-height: 1.2;
 }
 
+.home{
+   
+    height: 10rem;
+    margin: 10px;
+    justify-content: center;
+}
+
 .home .subtitle {
     font-size: 1.1rem;
 }
+
+.card2{
+   
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;    
+}
+
+.produto-selecionado{
+    background-color: #3f51b5;
+    color: white;
+}
+
+
+
