@@ -54,6 +54,11 @@
       "name": "moletom",
       "price": "300.00",
       "id": 11
+    },
+    {
+      "name": "Mascara",
+      "price": "10.00",
+      "id": 12
     }
   ]
 }

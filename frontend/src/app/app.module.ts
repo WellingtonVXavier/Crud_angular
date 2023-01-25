@@ -1,4 +1,4 @@
-import { BrowserModule } from '@angular/platform-browser';
+import { bootstrapApplication, BrowserModule } from '@angular/platform-browser';
 import { NgModule, LOCALE_ID } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
