@@ -56,9 +56,20 @@
       "id": 11
     },
     {
+<<<<<<< Updated upstream
       "name": "Mascara",
       "price": "10.00",
       "id": 12
+=======
+      "name": "short",
+      "price": "300.00",
+      "id": 12
+    },
+    {
+      "name": "camiseta",
+      "price": "45.50",
+      "id": 13
+>>>>>>> Stashed changes
     }
   ]
 }
