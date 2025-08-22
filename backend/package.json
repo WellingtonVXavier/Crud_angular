@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "json-server": "^0.17.1"
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.3"
   }
 }

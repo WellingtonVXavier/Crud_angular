@@ -1,30 +1,30 @@
 .home .title {
-    font-size: 3rem;
-    font-weight: 300;
-    line-height: 1.2;
+  font-size: 3rem;
+  font-weight: 300;
+  line-height: 1.2;
 }
 
-.home{
-   
-    height: 10rem;
-    margin: 10px;
-    justify-content: center;
+.home {
+  height: 10rem;
+  margin: 10px;
+  justify-content: center;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
 }
 
 .home .subtitle {
-    font-size: 1.1rem;
+  font-size: 1.1rem;
 }
 
-.card2{
-   
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;    
+.card2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
 }
 
-.produto-selecionado{
-    background-color: #3f51b5;
-    color: white;
+.produto-selecionado {
+  background-color: #3f51b5;
+  color: white;
 }
-
-
-

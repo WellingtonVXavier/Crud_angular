@@ -3,73 +3,72 @@
     {
       "name": "Camiseta - Homem Aranha",
       "price": "89.90",
-      "id": 1
+      "id": "1"
     },
     {
       "name": "Bermuda Spider",
       "price": "65.99",
-      "id": 2
+      "id": "2"
     },
     {
       "name": "Calça Jeans - Slim",
       "price": "99.90",
-      "id": 3
+      "id": "3"
     },
     {
       "name": "Blusa Moletom - Capuz Vermelho",
       "price": "250.90",
-      "id": 4
+      "id": "4"
     },
     {
       "name": "Touca - Pantera Negra",
       "price": "45.50",
-      "id": 5
+      "id": "5"
     },
     {
       "name": "Regata - Iron Man",
       "price": "90.50",
-      "id": 6
+      "id": "6"
     },
     {
       "name": "blusa",
       "price": "100.00",
-      "id": 7
+      "id": "7"
     },
     {
       "name": "Camiseta",
       "price": "45.00",
-      "id": 8
+      "id": "8"
     },
     {
       "name": "calça",
       "price": "65.99",
-      "id": 9
+      "id": "9"
     },
     {
       "name": "Regata",
       "price": "89.90",
-      "id": 10
+      "id": "10"
     },
     {
       "name": "moletom",
       "price": "300.00",
-      "id": 11
+      "id": "11"
     },
     {
-<<<<<<< Updated upstream
-      "name": "Mascara",
-      "price": "10.00",
-      "id": 12
-=======
       "name": "short",
       "price": "300.00",
-      "id": 12
+      "id": "12"
     },
     {
       "name": "camiseta",
       "price": "45.50",
-      "id": 13
->>>>>>> Stashed changes
+      "id": "13"
+    },
+    {
+      "name": "Short Jeans",
+      "price": "59.90",
+      "id": "14"
     }
   ]
 }

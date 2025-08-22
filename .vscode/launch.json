@@ -1,11 +1,11 @@
 {
     "configurations": [
         {
-            "type": "msedge",
+            "name": "ng serve",
+            "type": "chrome",
             "request": "launch",
-            "name": "Angular Crud",
-            "url": "http://localhost:4200",
-            "webRoot": "${workspaceFolder}"
+            "preLaunchTask": "npm: start",
+            "url": "http://localhost:4200/"
         }
     ]
 }
